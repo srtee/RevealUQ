@@ -15,7 +15,7 @@ format:
     footer: "UQ Reveal.js Template"
     logo: img/uq_logo.svg
     title-slide-attributes:
-      data-background-image: img/corner0.svg, img/swirl0.svg, img/uq_logo0.svg, img/uq_title_center.png
+      data-background-image: img/corner_white.svg, img/swirl_white.svg, img/uq_logo0.svg, img/uq_title_center.png
       data-background-position: left bottom, right bottom, right 3% top, left bottom
       data-background-repeat: no-repeat, no-repeat, no-repeat, repeat
       data-background-size: 30% auto, 30% auto, 18% 12%, contain
@@ -24,7 +24,13 @@ editor:
   render-on-save: true
 ---
 
-# Introduction
+# Introduction {
+  data-background-color="var(--uqviolet)"
+  data-background-image="img/corner_uqviolet.svg, img/swirl_uqviolet.svg, img/uq_logo0.svg, img/htmlsplash.jpg"
+  data-background-position="50vw bottom, right bottom, right 3% top, 50vw bottom"
+  data-background-repeat="no-repeat, no-repeat, no-repeat, no-repeat"
+  data-background-size="15% auto, 15% auto, 18% 12%, contain"
+}
 
 ## Overall description
 
