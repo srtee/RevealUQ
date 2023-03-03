@@ -29,14 +29,18 @@ editor:
   data-background-image="img/corner_uqviolet.svg, img/swirl_uqviolet.svg, img/uq_logo0.svg, img/htmlsplash.jpg"
   data-background-position="50vw bottom, right bottom, right 3% top, 50vw bottom"
   data-background-repeat="no-repeat, no-repeat, no-repeat, no-repeat"
-  data-background-size="15% auto, 15% auto, 18% 12%, contain"
+  data-background-size="15% auto, 15% auto, 18% 12%, auto 100vw"
 }
 
-## Overall description
-
+:::: {.columns}
+::: {.column width="50%"}
 This is a template for building presentations matching the UQ corporate template in Reveal.js using Quarto.
 
 Reveal.js works on Internet browsers, making it both portable and great for embedding videos, otherwise we would still be doing this in Beamer.
+:::
+::::
+
+## Overall description
 
 Since the template is coded in Markdown it is extremely simple.
 
@@ -150,149 +154,6 @@ My last slide deck was built in Quarto using Reveal.js!
 ![](img/slide_display.png)
 :::
 ::::
-
-
-# Mindset
-
-## Try changing things
-
-> It is as simple as not taking for granted how things are currently, and asking how they can be better.
-
-- See something annoying / missing? Ask how you might fix it.
-- Little improvements matter -- they build up over time.
-- Keep your PI in the loop -- some things _can't_ be changed.
-
-::: {.r-frame}
-- Time cost: low to medium
-- Benefit: feeling "ownership"!
-:::
-
-## Be open
-
-> If you are open to new things, new opportunities might also open up to you, and you contribute actively to a very positive aspect of lab culture that cannot be prescribed.
-
-- Have you seen something elsewhere? Why not try it here?
-- Hear out your lab-mates when their viewpoints or experiences differ from yours.
-
-::: {.r-frame}
-- Time cost: low to medium
-- Benefit: new insights and opportunities
-:::
-
-# Engage
-
-## Contribute in lab meetings
-
-> A broader contribution makes these meetings more fun, productive, and insightful for all. So come prepared and offer your perspective.
-
-- They can be intimidating -- but they can also be really fun!
-- Ideas: what you liked about the talk, what you're curious about
-
-::: {.r-frame}
-- Time cost: low (you _have_ to be there anyway)
-- Benefit: new ideas and collaboration
-:::
-
-## Engage in lab operations
-
-> You could take an interest in how things work "behind the curtains", and help generate ideas about how they could become better.
-
-- "Hidden work": writing grants, watching quotas, tracking calendars ...
-- You might want to become a PI one day! <sub><sup><sub>(or not, and that's okay)</sub></sup></sub>
-
-::: {.r-frame}
-- Time cost: low
-- Benefit: useful insights for your next position or promotion
-:::
-
-# Share
-
-## Skills workshops
-
-> What better way to use some new knowledge than to spread it to your teammates?
-
-- Could be technical (calculating X, running program Y) or personal (time management, social media)
-- Practice presenting and teaching!
-- Build skill recognition for yourself and future collaborators
-
-::: {.r-frame}
-- Time cost: medium
-- Benefit: building skills, winning collaborators, learning from others' workshops
-:::
-
-## Co-working or co-learning sessions
-
-> Science need not be a lonely endeavor; progress can be faster in small teams where people work towards a common, specific goal.
-
-- Peer mentoring or "rubber ducking" can be effective for learning and teaching
-- Co-working brings accountability and community <sub><sup><sub>(and efficient snacking)</sub></sup></sub>
-
-::: {.r-frame}
-- Time cost: low to medium
-- Benefit: faster progress on hard questions and tasks
-:::
-
-# Community
-
-## Help with onboarding
-
-> It makes all the difference when there is an active offer of help from team members!
-
-- Arriving in a new lab and environment is challenging, and help is really appreciated
-- Small gestures like introducing places to eat and go
-- Or group-based help, like teaching methods or communicating the group culture
-
-::: {.r-frame}
-- Time cost: low
-- Benefit: making a new friend (and possibly a collaborator)
-:::
-
-## Help other team members
-
-> Often research projects include crunch times, where offering even a few hours of help is really excellent.
-
-- Getting help at time-critical points (large literature review, thesis nearing deadline ...) means a lot!
-- Being known for generosity means you can also get help when _you_ need it!
-
-::: {.r-frame}
-- Time cost: low to medium
-- Benefit: being an excellent human being (and getting help when it's your turn)
-:::
-
-## Contribute to social events
-
-> Making social connections makes labs more collaborative and overall better places.
-
-- What could we bond over? (Board games, movies, food ...)
-- Consider inclusive event planning (timing and location)
-
-::: {.r-frame}
-- Time cost: low to medium
-- Benefit: making friends!
-:::
-
-## Look out for each other
-
-> PhD and postdoc years are stressful and mental health problems can be common!
-
-- Ask how people are and keep an eye on _changes in behaviour_
-- Offer an open ear and consider suggesting professional help
-- Look up AIBN's Mental Health First Aiders
-
-::: {.r-frame}
-- Time cost: low
-- Benefit: being an excellent human being
-:::
-
-## ... and ask for help!
-
-- Academia can foster imposter syndrome and unrealistic expectations
-- Asking for help means we can offer help and be real
-
-::: {.r-frame}
-- Time cost: low
-- Benefit: giving us a chance to be excellent human beings
-:::
 
 ## Acknowledgements
 
