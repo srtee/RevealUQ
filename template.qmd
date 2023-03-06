@@ -9,7 +9,6 @@ format:
   revealjs:
     toc: true
     toc-depth: 1
-    toc-title: Overview
     theme: uq.scss
     css: uq_metropolis.css
     footer: "UQ Reveal.js Template"
@@ -25,21 +24,26 @@ editor:
   render-on-save: true
 ---
 
-# Introduction {
+# How To Use This Template {.cutout
   data-background-color="var(--uqviolet)"
   data-background-image="img/corner_uqviolet.svg, img/swirl_uqviolet.svg, img/uq_logo0.svg, img/htmlsplash.jpg"
   data-background-position="50vw bottom, right bottom, right 3% top, 50vw bottom"
   data-background-repeat="no-repeat, no-repeat, no-repeat, no-repeat"
-  data-background-size="15% auto, 15% auto, 18% 12%, auto 100vw"
+  data-background-size="15% auto, 15% auto, 18% 12%, cover"
 }
 
-:::: {.columns}
-::: {.column width="50%"}
-This is a template for building presentations matching the UQ corporate template in Reveal.js using Quarto.
+Start making beautiful HTML presentations with the UQ theme in ... not moments, but not hours.
 
-Reveal.js works on Internet browsers, making it both portable and great for embedding videos, otherwise we would still be doing this in Beamer.
-:::
-::::
+[[Image source](https://unsplash.com/photos/8OyKWQgBsKQ)]{.aside}
+
+## Software Requirements
+
+- Start by downloading [Quarto](https://quarto.org/docs/get-started/).
+  - Quarto is an open-source scientific and technical publishing system developed by Posit (formerly RStudio)
+    focused on enabling dynamic content (such as Python notebooks)
+    and generating multiple outputs sensibly from a single Markdown source.
+- Install it and run through the online tutorial.
+- Then start creating your own presentation from the `srtee/RevealUQ` template!
 
 ## Overall description
 
