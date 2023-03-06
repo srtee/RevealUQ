@@ -14,6 +14,7 @@ format:
     css: uq_metropolis.css
     footer: "UQ Reveal.js Template"
     logo: img/uq_logo.svg
+    resources: img
     title-slide-attributes:
       data-background-image: img/corner_white.svg, img/swirl_white.svg, img/uq_logo0.svg, img/uq_title_center.png
       data-background-position: left bottom, right bottom, right 3% top, left bottom
